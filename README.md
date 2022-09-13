@@ -2,16 +2,16 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e472gs46bvjpdhn1ahc936xxzcsy5wsi5zli8e190e9&rid=giphy.gif&ct=s" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/agustin-cuello/">
+    <a href="https://www.linkedin.com/in/angel-brundu-68b9b9153/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <div>
      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/>
-      <p>"cuelloagustin3@gmail.com"</p>
+      <p>"brundua99@gmail.com"</p>
     </div>
     </a>
   </div>
- <h1 align="center">Hi 👋, I`am Agustin Cuello</h1>
+ <h1 align="center">Hi 👋, I`am Angel Brundu</h1>
 </div>
   </div>
   
